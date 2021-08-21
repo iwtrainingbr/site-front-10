@@ -2,6 +2,10 @@ body {
   background-color: #DEDEDE;
 }
 
+.card:hover {
+  background-color: #DEDEDE; 
+}
+
 .card .material-icons {
   font-size: 6rem;
 }
