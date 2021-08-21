@@ -1,7 +1,12 @@
 body {
-  background-color: #DEDEDE;
+  background-color: #DEDEDE
+  ;
 }
 
-.card .material-icons {
+.card .material-icon {
   font-size: 6rem;
+}
+
+img.como-funciona:hover {
+  transform: rotateY(180deg);
 }
