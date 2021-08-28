@@ -18,3 +18,7 @@ img.como-funciona:hover {
   transform: rotateY(180deg);
   transition: 1s;
 }
+img.imgdosarro{
+  border-radius: 5%;
+  border-color: #282828;
+}
